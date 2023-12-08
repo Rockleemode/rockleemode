@@ -17,7 +17,7 @@ they call lee, Rock LEE
 - 🌱 I’m currently learning Node js.
 - 💬 Ask me about React js.
 - ⚡ Fun fact: I'm Nocturnal.
-- 📱 You can Reach me on:[![Linkedin Badge](https://img.shields.io/badge/-Ma'aruf-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/ma-aruf-muhammad-b77631257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app")
+- 📱 You can Reach me on:[![Linkedin Badge](https://img.shields.io/badge/-Ma'aruf-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ma-aruf-muhammad-b77631257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
   ### 🛠️ Languages and Tools :
   <div>
